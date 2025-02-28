@@ -1,6 +1,7 @@
 YOLOv8-Project
 ---
-![스크린샷 2024-10-09 175017](https://github.com/user-attachments/assets/70cdd3dc-72a8-421d-a9f8-ae56dba20189)
+![image](https://github.com/user-attachments/assets/8a7c537f-29cb-41fd-ae9c-cf9f5e49d107)
+
 
 
 프로젝트 소개
